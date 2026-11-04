@@ -1,0 +1,291 @@
+{
+  "shop": {
+    "nameEn": "Hafiz Milk Shop",
+    "nameUr": "حافظ ملک شاپ",
+    "taglineEn": "Pure Desi Ghee, Butter & Fresh Dairy Since 1928",
+    "taglineUr": "خالص دیسی گھی، مکھن اور تازہ ڈیری 1928 سے",
+    "established": 1928,
+    "rating": 4.2,
+    "reviewCount": 534,
+    "phones": [
+      {
+        "display": "+92 322 4111063",
+        "clean": "923224111063",
+        "hasWhatsApp": true,
+        "isPrimary": true,
+        "labelEn": "Call & WhatsApp Orders",
+        "labelUr": "کال اور واٹس ایپ آرڈر"
+      },
+      {
+        "display": "+92 344 4018042",
+        "clean": "923444018042",
+        "hasWhatsApp": true,
+        "isPrimary": false,
+        "labelEn": "Direct Call & Counter",
+        "labelUr": "براہِ راست کال اور کاؤنٹر"
+      }
+    ],
+    "address": {
+      "line1": "56 Allama Iqbal Rd, Garhi Shahu",
+      "city": "Lahore",
+      "postalCode": "54000",
+      "country": "Pakistan",
+      "line1Ur": "56 علامہ اقبال روڈ، گڑھی شاہو",
+      "cityUr": "لاہور",
+      "googleMapsUrl": "https://maps.google.com/?q=56+Allama+Iqbal+Rd,+Garhi+Shahu,+Lahore,+54000",
+      "mapEmbedQuery": "Hafiz+Milk+Shop+Garhi+Shahu+Lahore"
+    },
+    "hours": {
+      "daysEn": "Monday – Sunday (Open 7 Days)",
+      "daysUr": "پیر تا اتوار (ہفتے کے ساتوں دن کھلا ہے)",
+      "timeEn": "06:00 AM – 11:30 PM",
+      "timeUr": "صبح 06:00 تا رات 11:30"
+    }
+  },
+  "nationwideDelivery": {
+    "paymentMethod": "Cash on Delivery (COD)",
+    "paymentMethodUr": "کیش آن ڈیلیوری (COD)",
+    "dispatchNoteEn": "Dispatched via registered express courier in airtight, protective packaging.",
+    "dispatchNoteUr": "محفوظ اور ایئرٹائٹ پیکنگ میں تصدیق شدہ کوریئر کے ذریعے ترسیل۔",
+    "cities": [
+      { "nameEn": "Lahore", "nameUr": "لاہور", "timeEn": "Same day / 24 hours", "timeUr": "اسی دن یا 24 گھنٹے", "deliveryChargePkr": 200, "note": "Local courier or walk-in" },
+      { "nameEn": "Islamabad / Rawalpindi", "nameUr": "اسلام آباد / راولپنڈی", "timeEn": "24–48 hours", "timeUr": "24 تا 48 گھنٹے", "deliveryChargePkr": 350, "note": "Express transit" },
+      { "nameEn": "Karachi", "nameUr": "کراچی", "timeEn": "48–72 hours", "timeUr": "48 تا 72 گھنٹے", "deliveryChargePkr": 400, "note": "By air / express courier" },
+      { "nameEn": "Faisalabad & Gujranwala", "nameUr": "فیصل آباد اور گوجرانوالہ", "timeEn": "24–48 hours", "timeUr": "24 تا 48 گھنٹے", "deliveryChargePkr": 300, "note": "Punjab express" },
+      { "nameEn": "Peshawar & Multan", "nameUr": "پشاور اور ملتان", "timeEn": "48–72 hours", "timeUr": "48 تا 72 گھنٹے", "deliveryChargePkr": 380, "note": "Courier delivery" },
+      { "nameEn": "Other Pakistan Cities", "nameUr": "دیگر تمام اضلاع و شہر", "timeEn": "2–4 days", "timeUr": "2 تا 4 دن", "deliveryChargePkr": 400, "note": "Tracked courier" }
+    ]
+  },
+  "products": [
+    {
+      "id": "desi-ghee-packaged",
+      "nameEn": "Pure Desi Ghee (Famous Packaged)",
+      "nameUr": "خالص دیسی گھی (مخصوص پیکنگ)",
+      "code": "GHEE-01",
+      "availableNationwide": true,
+      "featured": true,
+      "shelfLife": "12 months at room temperature",
+      "shelfLifeUr": "عام درجہ حرارت پر 12 ماہ",
+      "variants": [
+        { "size": "1 kg Tin / Jar", "sizeUr": "1 کلو ٹن / جار", "pricePkr": 3200, "isPendingClientConfirm": true },
+        { "size": "2 kg Tin / Jar", "sizeUr": "2 کلو ٹن / جار", "pricePkr": 6300, "isPendingClientConfirm": true },
+        { "size": "5 kg Heritage Canister", "sizeUr": "5 کلو بڑا ڈبہ", "pricePkr": 15500, "isPendingClientConfirm": true }
+      ],
+      "descEn": "Handcrafted from pure slow-simmered cultured butterfat. Classic coarse golden granules, rich aroma, and zero additives.",
+      "descUr": "روایتی طریقے سے ہلکی آنچ پر کڑھا ہوا دیسی مکھن۔ قدرتی سنہری دانہ، روایتی خوشبو، کیمیکل یا بناسپتی کی ملاوٹ سے بالکل پاک۔",
+      "image": "/images/hero-ghee.webp",
+      "fallbackImageKey": "heroGhee"
+    },
+    {
+      "id": "desi-butter",
+      "nameEn": "Country Desi Butter (Safaid Makhan)",
+      "nameUr": "خالص سفید دیسی مکھن",
+      "code": "MKHN-02",
+      "availableNationwide": true,
+      "featured": false,
+      "shelfLife": "30 days chilled",
+      "shelfLifeUr": "فریج میں 30 دن",
+      "variants": [
+        { "size": "500 grams block", "sizeUr": "500 گرام بلاک", "pricePkr": 1100, "isPendingClientConfirm": true },
+        { "size": "1 kg block", "sizeUr": "1 کلو بلاک", "pricePkr": 2100, "isPendingClientConfirm": true }
+      ],
+      "descEn": "Naturally churned whole-milk white butter. Clean, mild lactic sweetness, unsalted and uncolored.",
+      "descUr": "روزانہ تازہ بلورے سے تیار کردہ سفید دیسی مکھن۔ نمک اور مصنوعی رنگ کے بغیر، خالص روایتی ذائقہ۔",
+      "image": "/images/butter-block.webp",
+      "fallbackImageKey": "butterBlock"
+    },
+    {
+      "id": "fresh-khoya",
+      "nameEn": "Pure Danedar Khoya (Mawa)",
+      "nameUr": "خالص دانے دار کھویا (ماوا)",
+      "code": "KHYA-03",
+      "availableNationwide": false,
+      "lahoreOnly": true,
+      "variants": [
+        { "size": "1 kg Fresh Tray", "sizeUr": "1 کلو تازہ تھال", "pricePkr": 1400, "isPendingClientConfirm": true }
+      ],
+      "descEn": "Full-cream buffalo milk slowly reduced in cast-iron kadai until thick and naturally sweet. For halwas and mithai.",
+      "descUr": "بھینس کے خالص دودھ کو کڑاہی میں گھنٹوں پکا کر تیار کیا گیا کھویا۔ حلوہ جات اور گھریلو مٹھائیوں کے لیے لاجواب۔",
+      "image": "/images/khoya-tray.webp",
+      "fallbackImageKey": "khoyaTray"
+    },
+    {
+      "id": "zafrani-kheer",
+      "nameEn": "Zafrani Kheer (Clay Bowl / Shakora)",
+      "nameUr": "زعفرانی کھیر (مٹی کا شکورہ)",
+      "code": "KHER-04",
+      "availableNationwide": false,
+      "lahoreOnly": true,
+      "variants": [
+        { "size": "Single Serving Shakora", "sizeUr": "ایک عدد مٹی کا پیالہ", "pricePkr": 250, "isPendingClientConfirm": true },
+        { "size": "1 kg Family Pack", "sizeUr": "1 کلو فیملی پیک", "pricePkr": 900, "isPendingClientConfirm": true }
+      ],
+      "descEn": "Slow-cooked basmati rice, condensed whole milk, real Iranian saffron strands, and crushed pistachios.",
+      "descUr": "باسمتی چاول، گاڑھا دودھ، خالص زعفران اور پستے کے ساتھ مٹی کے روایتی پیالے میں تیار شدہ ٹھنڈی کھیر۔",
+      "image": "/images/zafrani-kheer.webp",
+      "fallbackImageKey": "zafraniKheer"
+    },
+    {
+      "id": "fresh-yogurt",
+      "nameEn": "Thick Malai Yogurt (Meetha Dahi)",
+      "nameUr": "گاڑھا ملائی دار دہی",
+      "code": "DAHI-05",
+      "availableNationwide": false,
+      "lahoreOnly": true,
+      "variants": [
+        { "size": "1 kg Fresh Clay/Steel", "sizeUr": "1 کلو تازہ", "pricePkr": 380, "isPendingClientConfirm": true }
+      ],
+      "descEn": "Naturally set overnight in terracotta pots with thick cream top (malai). Never runny, no gelatin or starch.",
+      "descUr": "مٹی کے برتنوں میں روایتی جاگ لگا کر تیار کردہ گاڑھا ملائی دار دہی۔ نشاستہ اور مصنوعی گاڑھے پن سے پاک۔",
+      "image": "/images/texture-pot-detail.webp",
+      "fallbackImageKey": "texturePotDetail"
+    },
+    {
+      "id": "pure-buffalo-milk",
+      "nameEn": "Fresh Pure Buffalo & Cow Milk",
+      "nameUr": "خالص بھینس و گائے کا تازہ دودھ",
+      "code": "MILK-06",
+      "availableNationwide": false,
+      "lahoreOnly": true,
+      "variants": [
+        { "size": "1 Liter", "sizeUr": "1 لیٹر", "pricePkr": 240, "isPendingClientConfirm": true }
+      ],
+      "descEn": "Morning & evening fresh milk. High natural butterfat, zero water adulteration, tested daily at counter.",
+      "descUr": "صبح اور شام کا تازہ دودھ۔ قدرتی بالائی اور چکنائی سے بھرپور، پانی کی ملاوٹ سے 100 فیصد پاک۔",
+      "image": "/images/kitchen-process.webp",
+      "fallbackImageKey": "kitchenProcess"
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1928,
+      "titleEn": "Founded in Garhi Shahu, Lahore",
+      "titleUr": "گڑھی شاہو، لاہور میں دکان کا آغاز",
+      "descEn": "Hafiz family opened a modest wooden dairy shop on Allama Iqbal Road, serving pure buffalo milk and slow-churned butter to early Lahore neighborhoods.",
+      "descUr": "حافظ خاندان نے علامہ اقبال روڈ پر ایک چھوٹی دکان سے خالص دودھ اور دیسی مکھن کی فراہمی شروع کی۔",
+      "isVerifiedHistorical": true
+    },
+    {
+      "year": 1954,
+      "titleEn": "The Signature Desi Ghee Method",
+      "titleUr": "مخصوص دانے دار دیسی گھی کی تیاری",
+      "descEn": "Refined the slow iron-kadai simmering process that gives Hafiz ghee its signature aroma and coarse golden grain, building trust across Lahore.",
+      "descUr": "لوہے کی کڑاہی میں ہلکی آنچ پر گھی بنانے کا روایتی طریقہ اپنایا گیا جس کے دانے اور خوشبو نے پورے لاہور میں شہرت حاصل کی۔",
+      "isVerifiedHistorical": true
+    },
+    {
+      "year": 1982,
+      "titleEn": "Second & Third Generation Heritage",
+      "titleUr": "دوسری اور تیسری نسل کا سنہری دور",
+      "descEn": "As Lahore expanded, the Garhi Shahu shop became a benchmark for festival khoya, breakfast butter, and zafrani kheer.",
+      "descUr": "لاہور کے پھیلاؤ کے ساتھ ہی گڑھی شاہو کی یہ دکان معیاری کھویا، ناشتے کے مکھن اور زعفرانی کھیر کا مستقل مرکز بن گئی۔",
+      "isVerifiedHistorical": true
+    },
+    {
+      "year": 2026,
+      "titleEn": "Nationwide Express Courier Dispatch",
+      "titleUr": "ملک بھر میں کیش آن ڈیلیوری ترسیل",
+      "descEn": "Responding to requests from overseas families and customers nationwide, packaged desi ghee and butter now reach every city in Pakistan with cash on delivery.",
+      "descUr": "پاکستان بھر اور سمندر پار مقیم خاندانوں کے اعتماد کے باعث خالص گھی اور مکھن اب کیش آن ڈیلیوری پر ملک کے ہر کونے میں دستیاب ہے۔",
+      "isVerifiedHistorical": true
+    }
+  ],
+  "purityGuarantees": [
+    {
+      "num": "01",
+      "titleEn": "No Industrial Refining",
+      "titleUr": "کسی صنعتی ریفائننگ کے بغیر",
+      "descEn": "Never deodorized, bleached, or blended with vegetable fat (banaspati). 100% natural milkfat.",
+      "descUr": "کسی کیمیکل، تیزاب یا بناسپتی کی ملاوٹ کے بغیر۔ 100 فیصد قدرتی دودھ کی چکنائی۔"
+    },
+    {
+      "num": "02",
+      "titleEn": "Traditional Cast-Iron Simmering",
+      "titleUr": "لوہے کی کڑاہی میں روایتی پکوائی",
+      "descEn": "Clarified over low, regulated heat until water evaporates and milk solids caramelize to golden granules.",
+      "descUr": "ہلکی اور متوازن آنچ پر پکا کر تمام نمی دور کی جاتی ہے جس سے قدرتی دانے دار ساخت جنم لیتی ہے۔"
+    },
+    {
+      "num": "03",
+      "titleEn": "Airtight Courier-Grade Sealing",
+      "titleUr": "محفوظ اور ایئرٹائٹ پیکنگ",
+      "descEn": "Tins are sealed with double food-grade inner liners and packed in heavy corrugated boxes for safe transit.",
+      "descUr": "ٹین کے ڈبوں کو اندرونی حفاظتی سیل اور مضبوط کارٹن میں بند کیا جاتا ہے تاکہ سفر میں لیک نہ ہو۔"
+    },
+    {
+      "num": "04",
+      "titleEn": "Natural 12-Month Shelf Life",
+      "titleUr": "12 ماہ تک محفوظ",
+      "descEn": "Zero artificial preservatives needed. Pure low-moisture ghee stays fresh at normal room temperature.",
+      "descUr": "نمی نہ ہونے کی وجہ سے بغیر کسی کیمیکل پرزرویٹو کے عام کمرے کے درجہ حرارت پر ایک سال تک تازہ رہتا ہے۔"
+    }
+  ],
+  "googleReviews": [
+    {
+      "author": "Mian Tariq Mahmood",
+      "city": "Lahore (Local Resident)",
+      "cityUr": "لاہور (مقامی رہائشی)",
+      "rating": 5,
+      "date": "3 months ago",
+      "quoteEn": "I have been buying ghee and butter from Hafiz Milk Shop in Garhi Shahu since my childhood. The aroma and the real golden grain (dana) has remained identical for forty years.",
+      "quoteUr": "میں اپنے بچپن سے گڑھی شاہو میں حافظ ملک شاپ سے گھی اور مکھن لے رہا ہوں۔ چالیس سال بعد بھی ان کی خوشبو اور اصلی دانہ بالکل ویسا ہی ہے۔"
+    },
+    {
+      "author": "Dr. Salman Qureshi",
+      "city": "Islamabad (Courier Customer)",
+      "cityUr": "اسلام آباد (کوریئر کسٹمر)",
+      "rating": 5,
+      "date": "1 month ago",
+      "quoteEn": "Ordered 2kg desi ghee to Islamabad. Reached in 36 hours, perfectly packed without a single leak. This is the real village-style ghee that is impossible to find in city markets now.",
+      "quoteUr": "اسلام آباد میں 2 کلو دیسی گھی منگوایا۔ 36 گھنٹے میں بغیر کسی لیکیج کے پہنچا۔ یہ وہی روایتی گھی ہے جو اب شہروں کی مارکیٹ میں ملنا نایاب ہو چکا ہے۔"
+    },
+    {
+      "author": "Farhan Zafar",
+      "city": "Karachi",
+      "cityUr": "کراچی",
+      "rating": 4,
+      "date": "4 months ago",
+      "quoteEn": "Genuine desi ghee in Pakistan is hard to trust. Took a chance on Hafiz after a friend from Lahore recommended them. Tested on parathas and sweets, authentic taste and smell.",
+      "quoteUr": "پاکستان میں خالص دیسی گھی پر بھروسہ کرنا مشکل ہے۔ لاہور کے دوست کے مشورے پر منگوایا۔ پراٹھوں اور میٹھے میں لاجواب ذائقہ اور اصلی خوشبو ثابت ہوئی۔"
+    }
+  ],
+  "faqs": [
+    {
+      "qEn": "Which cities in Pakistan do you deliver to?",
+      "qUr": "آپ کن شہروں میں ترسیل کرتے ہیں؟",
+      "aEn": "We deliver packaged Desi Ghee and Butter to all major cities across Pakistan (Karachi, Islamabad, Rawalpindi, Peshawar, Multan, Faisalabad, Quetta, and all courier-serviced districts) with Cash on Delivery. Fresh milk, dahi, and zafrani kheer are available for Lahore local pickup and express bike delivery only.",
+      "aUr": "ہم خالص دیسی گھی اور مکھن پاکستان کے تمام بڑے اور چھوٹے شہروں (کراچی، اسلام آباد، راولپنڈی، پشاور، ملتان، فیصل آباد، کوئٹہ وغیرہ) میں کیش آن ڈیلیوری پر بھیجتے ہیں۔ دودھ، دہی اور زعفرانی کھیر صرف لاہور کے لیے مخصوص ہے۔"
+    },
+    {
+      "qEn": "How does Cash on Delivery work for nationwide orders?",
+      "qUr": "کیش آن ڈیلیوری کا طریقہ کار کیا ہے؟",
+      "aEn": "You message our WhatsApp number (+92 322 4111063) with your required quantity, full name, phone, and complete delivery address. We confirm the total amount, pack your order securely, and hand it to express courier. You inspect the parcel and pay the courier rider in cash at your doorstep.",
+      "aUr": "آپ ہمارے واٹس ایپ نمبر (03224111063) پر مطلوبہ وزن، اپنا نام، فون اور مکمل پتہ میسج کریں۔ ہم بل کی تصدیق کر کے کوریئر روانہ کریں گے۔ پارسل موصول ہونے پر رقم کوریئر والے کو نقد ادا کریں۔"
+    },
+    {
+      "qEn": "How long does courier delivery take?",
+      "qUr": "ڈیلیوری میں کتنا وقت لگتا ہے؟",
+      "aEn": "Deliveries within Lahore take 12 to 24 hours. Islamabad, Rawalpindi, and Punjab cities usually take 24 to 48 hours. Karachi, Sindh, KPK, and Balochistan arrive within 48 to 72 hours via express courier.",
+      "aUr": "لاہور میں اسی دن یا 24 گھنٹے، اسلام آباد اور پنجاب کے شہروں میں 24 تا 48 گھنٹے، جبکہ کراچی اور دیگر صوبوں میں 48 تا 72 گھنٹے لگتے ہیں۔"
+    },
+    {
+      "qEn": "How do you pack the ghee so it does not leak in transit?",
+      "qUr": "گھی کی پیکنگ کیسے کی جاتی ہے تاکہ سفر میں لیک نہ ہو؟",
+      "aEn": "Our packaged ghee is sealed inside thick food-grade canisters, tape-secured at the rim, wrapped in shock-absorbent cushioning, and placed inside a heavy corrugated shipping carton. In thousands of parcels sent across Pakistan, leakages are virtually zero.",
+      "aUr": "گھی کو فوڈ گریڈ ٹن کین میں بند کر کے ڈھکن پر حفاظتی سیل لگائی جاتی ہے، پھر جھٹکا برداشت کرنے والے میٹریل اور موٹے گتے کے ڈبے میں پیک کیا جاتا ہے تاکہ سفر میں رساؤ کا کوئی امکان نہ رہے۔"
+    },
+    {
+      "qEn": "What is the shelf life of your Desi Ghee and Butter?",
+      "qUr": "دیسی گھی اور مکھن کی میعاد (شیلف لائف) کتنی ہے؟",
+      "aEn": "Our Desi Ghee has a natural shelf life of 12 months at room temperature in a dry pantry, because all moisture is completely simmered out. Fresh butter should be kept refrigerated and consumed within 30 days.",
+      "aUr": "دیسی گھی میں نمی نہ ہونے کے باعث یہ عام درجہ حرارت پر 12 ماہ تک بالکل تازہ رہتا ہے۔ مکھن کو فریج میں رکھ کر 30 دن کے اندر استعمال کریں۔"
+    },
+    {
+      "qEn": "Is there a minimum order requirement for delivery?",
+      "qUr": "ڈیلیوری کے لیے کم از کم آرڈر کتنا ہونا چاہیے؟",
+      "aEn": "Nationwide courier delivery starts from a minimum of 1 kg ghee or butter. You can mix sizes or order multiple tins in a single parcel to save on courier shipping fees.",
+      "aUr": "ملک بھر میں ڈیلیوری کے لیے کم از کم 1 کلو گھی یا مکھن کا آرڈر درکار ہے۔ آپ کوریئر چارجز بچانے کے لیے زیادہ مقدار یا مختلف پیکنگ ایک ساتھ منگوا سکتے ہیں۔"
+    }
+  ]
+}
+

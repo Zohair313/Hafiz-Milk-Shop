@@ -1,0 +1,124 @@
+{
+  "topBar": {
+    "callDirect": "Call Direct",
+    "whatsappDirect": "WhatsApp Order",
+    "hoursToday": "Open 7 Days: 06:00 AM – 11:30 PM",
+    "switchLang": "اردو"
+  },
+  "nav": {
+    "section01": "01 Top",
+    "section02": "02 Ledger",
+    "section03": "03 Story",
+    "section04": "04 How to Order",
+    "section05": "05 Purity",
+    "section06": "06 Reviews",
+    "section07": "07 FAQ",
+    "section08": "08 Visit Us",
+    "products": "Products",
+    "ourStory": "Our Story",
+    "howToOrder": "How to Order",
+    "reviews": "Reviews",
+    "visitUs": "Visit Us",
+    "orderWhatsApp": "Order on WhatsApp",
+    "menuToggle": "Ledger Index"
+  },
+  "hero": {
+    "stamp": "AUTHENTIC LAHORE DAIRY • EST. 1928",
+    "foundedYear": "1928",
+    "headlineLead": "Nearly a century of",
+    "headlineHighlight": "pure desi ghee & fresh butter",
+    "headlineTail": "from Garhi Shahu, Lahore.",
+    "subheadline": "Slow-simmered, granular golden clarified butter and pure country butter delivered to your doorstep anywhere in Pakistan. Simple cash on delivery.",
+    "ctaWhatsApp": "Order on WhatsApp",
+    "ctaCall": "Call Counter",
+    "badge1Label": "Garhi Shahu, Lahore",
+    "badge1Value": "Serving since 1928",
+    "badge2Label": "Customer Trust",
+    "badge2Value": "4.2 on Google (534 reviews)",
+    "badge3Label": "Nationwide Dispatch",
+    "badge3Value": "Cash on delivery across Pakistan"
+  },
+  "products": {
+    "sectionNum": "SECTION 02",
+    "title": "Shop Ledger & Price List",
+    "subtitle": "Prices are set in Pakistani Rupees (PKR). Pure ghee and butter are packaged for safe courier dispatch nationwide. Perishable daily items are available at the Lahore counter.",
+    "columnItem": "Item & Specification",
+    "columnAvail": "Delivery Scope",
+    "columnPrice": "Price (PKR)",
+    "columnAction": "Order",
+    "orderButton": "Order on WhatsApp",
+    "nationwideTag": "Nationwide COD",
+    "lahoreOnlyTag": "Lahore Walk-in / Bike",
+    "unconfirmedNote": "* Prices subject to confirmation via WhatsApp as dairy rates fluctuate naturally.",
+    "featuredNotice": "Featured Packaged Ghee: Sealed 1kg, 2kg & 5kg tins. Shipped via tracked courier with zero leakage guarantee."
+  },
+  "story": {
+    "sectionNum": "SECTION 03",
+    "title": "Nine Decades on Allama Iqbal Road",
+    "subtitle": "From a wooden counter in 1928 to deliveries across Pakistan today. No corporate rebranding, no industrial shortcuts.",
+    "ledgerNote": "RECORD OF HERITAGE & CONTINUITY"
+  },
+  "orderGuide": {
+    "sectionNum": "SECTION 04",
+    "title": "Nationwide Delivery Slip",
+    "subtitle": "No online registration, no credit cards required. Straightforward doorstep delivery through registered express couriers.",
+    "slipHeader": "HAFIZ MILK SHOP — ORDER DISPATCH SLIP",
+    "step1Title": "1. Send a message on WhatsApp",
+    "step1Desc": "Tell us how many kilograms of ghee or butter you need, along with your delivery city.",
+    "step2Title": "2. Confirm your address & bill",
+    "step2Desc": "We verify the parcel weight, exact courier fee, and total payable amount before dispatch.",
+    "step3Title": "3. Airtight packing & courier handoff",
+    "step3Desc": "Your order is packed in leak-proof sealed tins and corrugated shipping cartons with tracking.",
+    "step4Title": "4. Pay Cash on Delivery at your door",
+    "step4Desc": "Receive your parcel from the courier rider, inspect the outer seals, and pay cash.",
+    "cityRatesTitle": "Courier Timelines & Standard Transit Rates by City",
+    "cityCol": "City / Zone",
+    "timeCol": "Estimated Time",
+    "chargeCol": "Courier Charge",
+    "chargeUnit": "approx."
+  },
+  "purity": {
+    "sectionNum": "SECTION 05",
+    "title": "Packaging & Natural Purity Standards",
+    "subtitle": "Factual dairy methods handed down across generations. No invented marketing jargon, no laboratory claims.",
+    "processImageCaption": "Traditional iron kadai simmering process in Garhi Shahu."
+  },
+  "reviews": {
+    "sectionNum": "SECTION 06",
+    "title": "Verified Customer Words",
+    "subtitle": "Honest feedback from Lahore families and nationwide courier recipients.",
+    "ratingScore": "4.2",
+    "ratingMax": "out of 5.0",
+    "totalReviews": "Based on 534 verified Google Maps reviews",
+    "viewOnGoogle": "View all reviews on Google Maps",
+    "clientNote": "Quotes are taken directly from public Google reviews by real customers."
+  },
+  "faq": {
+    "sectionNum": "SECTION 07",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Plain answers about weights, shelf life, courier packaging, and payment."
+  },
+  "visit": {
+    "sectionNum": "SECTION 08",
+    "title": "Visit Our Garhi Shahu Shop",
+    "subtitle": "If you are in Lahore, stop by our shop for fresh morning butter, breakfast yogurt, or hot zafrani kheer.",
+    "addressTitle": "Physical Address",
+    "hoursTitle": "Operating Hours",
+    "phonesTitle": "Telephone & WhatsApp",
+    "getDirections": "Get Driving Directions",
+    "callPrimary": "Call Primary Line",
+    "callSecondary": "Call Counter Line",
+    "mapPlaceholder": "Interactive Google Map of Garhi Shahu, Lahore"
+  },
+  "footer": {
+    "legalName": "Hafiz Milk Shop (Garhi Shahu, Lahore)",
+    "since": "Serving Lahore families since 1928.",
+    "allRights": "All rights reserved.",
+    "tag": "Traditional Punjabi Dairy Heritage • Cash on Delivery Across Pakistan",
+    "backToTop": "Return to Top"
+  },
+  "floating": {
+    "tooltip": "Order Desi Ghee on WhatsApp"
+  }
+}
+
